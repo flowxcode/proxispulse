@@ -20,4 +20,10 @@
     </COMReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Tearing.kwav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
